@@ -1,0 +1,7 @@
+c:\users\мукушева.corp\source\repos\PracticeReflections\PracticeReflections\bin\Debug\PracticeReflections.exe.config
+c:\users\мукушева.corp\source\repos\PracticeReflections\PracticeReflections\bin\Debug\PracticeReflections.exe
+c:\users\мукушева.corp\source\repos\PracticeReflections\PracticeReflections\bin\Debug\PracticeReflections.pdb
+c:\users\мукушева.corp\source\repos\PracticeReflections\PracticeReflections\obj\Debug\PracticeReflections.csprojAssemblyReference.cache
+c:\users\мукушева.corp\source\repos\PracticeReflections\PracticeReflections\obj\Debug\PracticeReflections.csproj.CoreCompileInputs.cache
+c:\users\мукушева.corp\source\repos\PracticeReflections\PracticeReflections\obj\Debug\PracticeReflections.exe
+c:\users\мукушева.corp\source\repos\PracticeReflections\PracticeReflections\obj\Debug\PracticeReflections.pdb
