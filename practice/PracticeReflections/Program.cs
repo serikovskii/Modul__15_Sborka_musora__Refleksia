@@ -23,6 +23,12 @@ namespace PracticeReflections
                     Console.WriteLine((methodInfo as MethodInfo).Invoke(str, new object[] { 1, 5 }));
                 }
             }
+
+            Type type = typeof(List<>);
+            foreach (ConstructorInfo constructor in type.GetConstructors())
+            {
+                Console.WriteLine(constructor.Name);
+            }
         }
     }
 }

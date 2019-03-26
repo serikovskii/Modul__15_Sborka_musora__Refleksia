@@ -5,3 +5,10 @@ c:\users\мукушева.corp\source\repos\PracticeReflections\PracticeReflecti
 c:\users\мукушева.corp\source\repos\PracticeReflections\PracticeReflections\obj\Debug\PracticeReflections.csproj.CoreCompileInputs.cache
 c:\users\мукушева.corp\source\repos\PracticeReflections\PracticeReflections\obj\Debug\PracticeReflections.exe
 c:\users\мукушева.corp\source\repos\PracticeReflections\PracticeReflections\obj\Debug\PracticeReflections.pdb
+C:\Users\azat\Documents\GitHub\Modul__15_Sborka_musora__Refleksia\practice\PracticeReflections\bin\Debug\PracticeReflections.exe.config
+C:\Users\azat\Documents\GitHub\Modul__15_Sborka_musora__Refleksia\practice\PracticeReflections\bin\Debug\PracticeReflections.exe
+C:\Users\azat\Documents\GitHub\Modul__15_Sborka_musora__Refleksia\practice\PracticeReflections\bin\Debug\PracticeReflections.pdb
+C:\Users\azat\Documents\GitHub\Modul__15_Sborka_musora__Refleksia\practice\PracticeReflections\obj\Debug\PracticeReflections.csprojAssemblyReference.cache
+C:\Users\azat\Documents\GitHub\Modul__15_Sborka_musora__Refleksia\practice\PracticeReflections\obj\Debug\PracticeReflections.csproj.CoreCompileInputs.cache
+C:\Users\azat\Documents\GitHub\Modul__15_Sborka_musora__Refleksia\practice\PracticeReflections\obj\Debug\PracticeReflections.exe
+C:\Users\azat\Documents\GitHub\Modul__15_Sborka_musora__Refleksia\practice\PracticeReflections\obj\Debug\PracticeReflections.pdb
